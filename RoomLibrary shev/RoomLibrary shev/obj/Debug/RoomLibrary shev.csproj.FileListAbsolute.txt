@@ -1,0 +1,6 @@
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\bin\Debug\RoomLibrary shev.dll
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\bin\Debug\RoomLibrary shev.pdb
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\obj\Debug\RoomLibrary shev.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\obj\Debug\RoomLibrary shev.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\obj\Debug\RoomLibrary shev.dll
+C:\Users\Anna\Desktop\RoomLibrary shev\RoomLibrary shev\obj\Debug\RoomLibrary shev.pdb

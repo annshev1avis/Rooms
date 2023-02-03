@@ -1,0 +1,19 @@
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\bin\Debug\RoomExample shev.exe.config
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\bin\Debug\RoomExample shev.exe
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\bin\Debug\RoomExample shev.pdb
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\bin\Debug\RoomLibrary shev.dll
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\bin\Debug\RoomLibrary shev.pdb
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\App.g.cs
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev_MarkupCompile.cache
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev_MarkupCompile.lref
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\MainWindow.baml
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.g.resources
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample_shev.Properties.Resources.resources
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.csproj.CopyComplete
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.exe
+C:\Users\Anna\Desktop\RoomExample shev\RoomExample shev\obj\Debug\RoomExample shev.pdb
